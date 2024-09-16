@@ -5,6 +5,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
+## 🌐 Find me on:
+- [LinkedIn](https://www.linkedin.com/in/xavi-heredia-ortas-a1025529a/): Conecta conmigo para hablar de tecnología y proyectos.
+- [Twitter](https://twitter.com/tu-usuario): Sígueme para más contenido sobre desarrollo y tecnología. 🐦
+
 <!--
 **xavihe1/xavihe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
