@@ -4,6 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DF5B00?style=flat&logo=java&logoColor=white)
 
 ## 🌐 Find me on:
 - [LinkedIn](https://www.linkedin.com/in/xavi-heredia-ortas-a1025529a/): Conecta conmigo para hablar de tecnología y proyectos.
